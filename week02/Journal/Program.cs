@@ -1,6 +1,6 @@
 // A text is display to let the user choose to save the entry to a new file or to a loaded file
 // so the user can have multiple files or keep writing in the same file.
-// The program displays the files that are stored for the user to choose
+// The program displays the files that are stored for the user to choose where to write
 
 using System;
 
@@ -30,7 +30,6 @@ class Program
             if (answer == "2")
             {
                 entry.Display();
-
             }
 
             if (answer == "3")
