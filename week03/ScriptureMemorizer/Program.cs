@@ -1,4 +1,4 @@
-// Some code were added to read from a file that contain multiple scriptures
+// Some code were added to read from a file that contain multiple scriptures within the subfolder bin\Debug\net8.0
 // The program display all the scriptures available to memorize
 //  The program prompts the user to choose a scripture by number or random
 
