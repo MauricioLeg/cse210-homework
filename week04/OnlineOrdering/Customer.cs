@@ -1,11 +1,11 @@
 public class Customer
 {
     private string _customerName;
-    Address address = new Address();
+    Address _address = new Address();
 
     public bool IsInUsa()
     {
-        return address.IsInUsa();
+        return _address.IsInUsa();
     }
     public void SetCustomerName(string name)
     {
